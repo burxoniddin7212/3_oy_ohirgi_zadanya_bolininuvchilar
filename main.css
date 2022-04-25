@@ -1,0 +1,38 @@
+.container{
+  max-width: 1180px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.div{
+  display: flex;
+  justify-content: space-between;
+  max-width: 500px;
+}
+
+.inner{
+  margin-top: 100px;
+  margin-left: 230px;
+}
+
+.inp-btn-div{
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn{
+  width: 50px;
+  height: 20px;
+}
+
+.clearbtn{
+  width: 60px;
+  height: 20px;
+}
+
+.oneLet{
+
+}
